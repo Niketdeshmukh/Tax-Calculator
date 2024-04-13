@@ -28,6 +28,10 @@
   <p>Output is given</p>
   <img src="https://i.imgur.com/piOpNqV.png" alt="screenshot"  width="500"/><br/>
 </div> <hr/>
+<div align="center"> 
+  <p>Output is given</p>
+  <img src="https://imgur.com/g0YXC8K" alt="screenshot"  width="500"/><br/>
+</div> <hr/>
 
 <!-- TechStack -->
 ### :space_invader: Tech Stack
